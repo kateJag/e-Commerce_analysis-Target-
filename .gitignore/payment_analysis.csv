@@ -1,0 +1,6 @@
+payment_type,payments_count,total_payment_value
+not_defined,6,0.0
+debit_card,3058,435979.5799751282
+voucher,11550,758873.7407914959
+UPI,39568,5738722.538988113
+credit_card,153590,25084168.38035495
